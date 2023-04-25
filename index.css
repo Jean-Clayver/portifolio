@@ -1,0 +1,12 @@
+body{
+  color: white;
+  background-color: black;
+  }
+  img {
+    width: 200px;
+    height: auto;
+    border-spacing: 15%;
+  }
+  .teste{
+    display: flex;
+  }
